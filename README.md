@@ -32,17 +32,11 @@ I'm a passionate software engineer with a strong foundation in computer science,
 </p>
 
 - <b>Programming:</b> Python, Java, Javascript, Typescript, C, C++, R, PHP
-
 - <b>Backend Technologies:</b> Django, Spring Boot, Play Framework
-  
 - <b>Cloud & DevOps:</b> Docker, AWS, Azure Pipelines, Kubernetes, Nginx, Github Actions, Jenkins
-  
 - <b>Concepts:</b> Data Structures, Algorithms, Distributed Systems, Machine Learning Basics
-  
 - <b>Tools:</b> Git, IntelliJ IDEA, PyCharm, VSCode, Android Studio, Postman, PgAdmin, Jira, Gradle, Maven
-  
 - <b>Languages:</b> English (Fluent), Italian (Fluent)
-  
 
 ## 🎓 Education
 

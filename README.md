@@ -8,7 +8,7 @@ I'm a passionate software engineer with a strong foundation in computer science,
 
 ## 🌟 About Me
 
-- **Software Engineering Focus**: Backend development, system design, scalable APIs, and cloud infrastructure.
+- **Software Engineering Focus**: Backend development, System design, Scalable APIs, and Cloud infrastructure.
 - **Passion**: Developing robust and performant systems for real-world applications.
 - **Goal**: Seeking opportunities with innovative and forward-thinking teams.
   
